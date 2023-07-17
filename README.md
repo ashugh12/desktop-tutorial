@@ -4,6 +4,7 @@ This is your README. READMEs are where you can communicate what your project is 
 *************************************
 
 This project is about the the simple analog clock.....
+And how I have made my first html project
 
 
 *************************************
